@@ -1,0 +1,30 @@
+{
+  "name": "kuramoto-biophysical-simulator",
+  "version": "1.0.0",
+  "description": "Advanced Kuramoto oscillator simulator with real-time biophysical analysis, criticality detection, and GPU-ready architecture",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html",
+    "dev": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "kuramoto",
+    "oscillators",
+    "synchronization",
+    "biophysics",
+    "criticality",
+    "neural-dynamics",
+    "real-time-analysis",
+    "phase-transitions"
+  ],
+  "author": "Luis Madariaga",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luismadaf1998-hub/kuramoto-biophysical-simulator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luismadaf1998-hub/kuramoto-biophysical-simulator/issues"
+  },
+  "homepage": "https://github.com/luismadaf1998-hub/kuramoto-biophysical-simulator#readme"
+}
